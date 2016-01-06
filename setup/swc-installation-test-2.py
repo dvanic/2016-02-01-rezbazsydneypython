@@ -92,11 +92,11 @@ CHECKS = [
     'git',
     'hg',              # Command line tool
     #'mercurial',       # Python package
-    'EasyMercurial',
+#DV    'EasyMercurial',
 # Build tools and packaging
-    'make',
-    'virtual-pypi-installer',
-    'setuptools',
+#DV    'make',
+#DV    'virtual-pypi-installer',
+#DV    'setuptools',
     #'xcode',
 # Testing
     'nosetests',       # Command line tool
@@ -104,8 +104,8 @@ CHECKS = [
     'py.test',         # Command line tool
     'pytest',          # Python package
 # SQL
-    'sqlite3',         # Command line tool
-    'sqlite3-python',  # Python package
+#DV    'sqlite3',         # Command line tool
+#DV  'sqlite3-python',  # Python package
 # Python
     'python',
     'ipython',         # Command line tool
