@@ -90,7 +90,7 @@ CHECKS = [
     'virtual-browser',
 # Version control
     'git',
-    'hg',              # Command line tool
+   #DV 'hg',              # Command line tool
     #'mercurial',       # Python package
 #DV    'EasyMercurial',
 # Build tools and packaging
